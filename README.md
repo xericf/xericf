@@ -1,4 +1,4 @@
 **Welcome**  
 
 Hey! Check out my portfolio:  
-https://xericf.github.io/portfolio
+https://www.ericfu.net
